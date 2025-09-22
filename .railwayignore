@@ -1,0 +1,15 @@
+uploads/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.sqlite
+*.db
