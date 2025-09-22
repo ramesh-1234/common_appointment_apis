@@ -10,3 +10,4 @@ python-multipart
 mysql-connector-python
 alembic
 pydantic-settings
+email-validator
